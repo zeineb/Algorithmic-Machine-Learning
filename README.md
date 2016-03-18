@@ -26,3 +26,5 @@ Some Notebooks are instead based on publicly available data, for which we define
 Finally, some Notebooks are private, and cannot be pushed to this repository. This is the case for industrial Notebooks, taking the form of use cases by Data Scientists from companies we are in contact with.
 
 Finally, all this could not be achieved without the skills of [Duc-Trung Nguyen](http://www.eurecom.fr/en/people/nguyen-duc-trung), PhD student in my group at Eurecom.
+
+GROUP 17 / ciefieth
